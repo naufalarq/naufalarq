@@ -50,10 +50,10 @@ My main stack is **JavaScript**, but I also use **Kotlin**, **Java**, **MySQL**,
 <a href="https://discord.com/users/your-discord-id" target="_blank">
   <img alt="Discord" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png"/>
 </a>
-<a href="https://www.instagram.com/yourusername" target="_blank">
+<a href="https://www.instagram.com/nauflarq?igsh=MWpna3J5bG5tMWVscQ==" target="_blank">
   <img alt="Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/>
 </a>
-<a href="https://linkedin.com/in/naufal-ariq" target="_blank">
+<a href="https://linkedin.com/in/naufal-ariq-51b40227a" target="_blank">
   <img alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
 <a href="https://github.com/Naufal-Ariq" target="_blank">
