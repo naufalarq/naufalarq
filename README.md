@@ -22,7 +22,7 @@ My main stack is **JavaScript**, but I also use **Kotlin**, **Java**, **MySQL**,
 <br>
 <br>
 
----
+
 
 ### ⚙️ Tools
 <a href="#"><img align="left" alt="VS Code" title="VS Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
@@ -33,7 +33,7 @@ My main stack is **JavaScript**, but I also use **Kotlin**, **Java**, **MySQL**,
 <br>
 <br>
 
----
+
 
 ### 📊 GitHub Stats
 <p align="left">
@@ -43,7 +43,7 @@ My main stack is **JavaScript**, but I also use **Kotlin**, **Java**, **MySQL**,
 </a>
 </p>
 
----
+
 
 ### 📫 Reach me on
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
