@@ -8,7 +8,7 @@ My main stack is **JavaScript**, but I also use **Kotlin**, **Java**, **MySQL**,
 - 💬 Feel free to ask me about Web Development, Back-End, or Mobile Apps  
 - ⚡ Fun fact: I also enjoy experimenting with Android apps on **Android Studio** and coding with **VS Code**  
 
----
+
 
 ### 🛠️ Tech Stack
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/></a>
