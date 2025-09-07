@@ -10,8 +10,9 @@
 
 </div>
 
-### 🛠️ Tech Stack
-
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
+</div>
 <p align="center">
   <img title="JavaScript" alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
   &nbsp;&nbsp;&nbsp;
@@ -34,8 +35,9 @@
   <img title="Godot Engine" alt="Godot" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg"/>
 </p>
 
-### ⚙️ Tools
-
+<div align="center">
+  <h3>⚙️ Tools</h3>
+</div>
 <p align="center">
   <img title="Visual Studio Code" alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   &nbsp;&nbsp;&nbsp;
@@ -50,8 +52,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-### 📊 My GitHub Stats
-
+<div align="center">
+  <h3>📊 My GitHub Stats</h3>
+</div>
 <p align="center">
   <a href="https://github.com/Naufal-Ariq">
     <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Naufal-Ariq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -63,8 +66,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-### 📫 Reach Me On
-
+<div align="center">
+  <h3>📫 Reach Me On</h3>
+</div>
 <p align="center">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   &nbsp;&nbsp;
