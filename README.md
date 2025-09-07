@@ -66,19 +66,11 @@
 ### 📫 Reach Me On
 
 <p align="center">
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/nauflarq?igsh=MWpna3J5bG5tMWVscQ==" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/naufal-ariq-51b40227a" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Naufal-Ariq" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
 </p>
