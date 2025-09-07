@@ -22,37 +22,21 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img alt="JavaScript" title="JavaScript" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
-  </a>
+  <img alt="JavaScript" title="JavaScript" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://react.dev/">
-    <img alt="React" title="React" width="45px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/>
-  </a>
+  <img alt="React" title="React" width="45px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://kotlinlang.org/">
-    <img alt="Kotlin" title="Kotlin" width="45px" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg"/>
-  </a>
+  <img alt="Kotlin" title="Kotlin" width="45px" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com/">
-    <img alt="Java" title="Java" width="45px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
-  </a>
+  <img alt="Java" title="Java" width="45px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/">
-    <img alt="MySQL" title="MySQL" width="45px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"/>
-  </a>
+  <img alt="MySQL" title="MySQL" width="45px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://firebase.google.com/">
-    <img alt="Firebase" title="Firebase" width="45px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
-  </a>
+  <img alt="Firebase" title="Firebase" width="45px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" title="PHP" width="55px" src="https://www.php.net/images/logos/new-php-logo.svg"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://godotengine.org/">
-    <img alt="Godot" title="Godot Engine" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg"/>
-  </a>
+  <img alt="PHP" title="PHP" width="55px" src="https://www.php.net/images/logos/new-php-logo.svg"/>
+  &nbsp;&nbsp;&nbsp;&post;
+  <img alt="Godot" title="Godot Engine" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg"/>
 </p>
 
 <br>
@@ -60,25 +44,15 @@
 ### ⚙️ Tools
 
 <p align="center">
-  <a href="https://code.visualstudio.com/">
-    <img alt="VS Code" title="VS Code" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
+  <img alt="VS Code" title="VS Code" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.android.com/studio">
-    <img alt="Android Studio" title="Android Studio" width="45px" src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png"/>
-  </a>
+  <img alt="Android Studio" title="Android Studio" width="45px" src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/">
-    <img alt="Git" title="Git" width="45px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
-  </a>
+  <img alt="Git" title="Git" width="45px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/">
-    <img alt="GitHub" title="GitHub" width="45px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/>
-  </a>
+  <img alt="GitHub" title="GitHub" width="45px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postman.com/">
-    <img alt="Postman" title="Postman" width="45px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
-  </a>
+  <img alt="Postman" title="Postman" width="45px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
 </p>
 
 <p align="center">
