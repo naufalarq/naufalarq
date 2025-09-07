@@ -1,18 +1,18 @@
 <div align="center">
 
-# Hi! 👋 I'm Naufal Ariq
+<a href="https://github.com/Naufal-Ariq">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi!+%F0%9F%91%8B+I'm+Naufal+Ariq;A+Passionate+Software+Engineer;...and+a+Back-End+Developer" alt="Typing SVG" />
+</a>
 
 <p>
-  An independent <b>Software Engineer</b> and passionate <b>Back-End Developer</b>. <br/>
-  My main stack is <b>JavaScript</b>, but I also work with Kotlin, Java, MySQL, PHP, HTML, and CSS. <br/>
-  Currently learning more about <b>cloud technology</b> and exploring <b>game development with Godot</b>.
+  An independent <b>Software Engineer</b> who loves to create and share projects in <b>web</b> and <b>mobile technology</b>.
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tech Stack
 
 <p align="center">
   <img title="JavaScript" alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
@@ -34,7 +34,11 @@
   <img title="CSS" alt="CSS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
   &nbsp;&nbsp;&nbsp;
   <img title="Godot Engine" alt="Godot" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg"/>
-  &nbsp;&nbsp;&nbsp;
+</p>
+
+### ⚙️ Tools
+
+<p align="center">
   <img title="Visual Studio Code" alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   &nbsp;&nbsp;&nbsp;
   <img title="Android Studio" alt="Android Studio" width="40px" src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png"/>
