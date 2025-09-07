@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi! 👋 I'm Naufal Ariq
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi!+%F0%9F%91%8B+I'm+Naufal+Ariq;A+Passionate+Software+Engineer;...and+a+Back-End+Developer" alt="Typing SVG" />
 
 <p>
   An independent <b>Software Engineer</b> who loves to create and share projects in <b>web</b> and <b>mobile technology</b>.
@@ -66,11 +66,19 @@
 ### 📫 Reach Me On
 
 <p align="center">
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://discord.com/users/your-discord-id" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
   &nbsp;&nbsp;
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.instagram.com/nauflarq?igsh=MWpna3J5bG5tMWVscQ==" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
   &nbsp;&nbsp;
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://linkedin.com/in/naufal-ariq-51b40227a" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
   &nbsp;&nbsp;
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/Naufal-Ariq" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
