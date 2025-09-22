@@ -10,47 +10,46 @@
 
 </div>
 
-<div align="center">
-  <h3>🛠️ Tech Stack</h3>
-</div>
-<p align="center">
-  <img title="JavaScript" alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
-  &nbsp;&nbsp;&nbsp;
-  <img title="React" alt="React" width="40px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/>
-  &nbsp;&nbsp;&nbsp;
-  <img title="Kotlin" alt="Kotlin" width="40px" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg"/>
-  &nbsp;&nbsp;&nbsp;
-  <img title="Java" alt="Java" width="40px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
-  &nbsp;&nbsp;&nbsp;
-  <img title="MySQL" alt="MySQL" width="40px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"/>
-  &nbsp;&nbsp;&nbsp;
-  <img title="Firebase" alt="Firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
-  &nbsp;&nbsp;&nbsp;
-  <img title="PHP" alt="PHP" width="50px" src="https://www.php.net/images/logos/new-php-logo.svg"/>
-  &nbsp;&nbsp;&nbsp;
-  <img title="HTML" alt="HTML" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"/>
-  &nbsp;&nbsp;&nbsp;
-  <img title="CSS" alt="CSS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
-  &nbsp;&nbsp;&nbsp;
-  <img title="Godot Engine" alt="Godot" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg"/>
-</p>
+---
 
-<div align="center">
-  <h3>⚙️ Tools</h3>
-</div>
-<p align="center">
-  <img title="Visual Studio Code" alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  &nbsp;&nbsp;&nbsp;
-  <img title="Android Studio" alt="Android Studio" width="40px" src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png"/>
-  &nbsp;&nbsp;&nbsp;
-  <img title="Git" alt="Git" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
-  &nbsp;&nbsp;&nbsp;
-  <img title="Postman" alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
-</p>
+## 🚀 About Me
+- ✨ Creating bugs since 2023 (and learning to fix them!)
+- 📚 Currently exploring **Machine Learning** and **AI** technologies
+- 🎯 Just secured **ASAH by Dicoding** to strengthen my skills
+- 🏆 Goals: Build my first major web app and secure an internship
+- ☕ Fun fact: I'm a night owl who loves late-night debugging sessions with coffee.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD4814?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎮 Game Engine
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+
+### ⚙️ Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
 
 <div align="center">
   <h3>📊 My GitHub Stats</h3>
