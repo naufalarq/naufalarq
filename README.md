@@ -47,10 +47,13 @@
 
 <div align="center">
   <h3>📊 My GitHub Stats</h3>
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Naufal-Ariq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naufal-Ariq&layout=compact&langs_count=8&theme=algolia"/>
 </div>
+<p align="center">
+  <a href="https://github.com/Naufal-Ariq">
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Naufal-Ariq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Naufal-Ariq&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
