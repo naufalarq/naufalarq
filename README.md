@@ -51,9 +51,9 @@
   <h3>📊 My GitHub Stats</h3>
 </div>
 <p align="center">
-  <a href="https://github.com/Naufal-Ariq">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Naufal-Ariq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Naufal-Ariq&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/naufalarq">
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naufalarq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naufalarq&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
@@ -73,4 +73,3 @@
   &nbsp;&nbsp;
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
-
